@@ -4,8 +4,12 @@ Who needs variance, when you can embrace a _completely biased_ list of ML resour
 Each topic will have **at most two** links - one for understanding/theory and one for application/empirical observations.
 
 # Deep Learning
-## Architectures
+
+## Architectures
+
 ## Making Things Work
 - Activation Functions: [Understand](https://mlfromscratch.com/activation-functions-explained/), [Apply](https://datascience.aero/aviation-function-deep-learning/)
-### Weight Initialization
+- 
+### Weight Initialization
+
 ### Weight Regularization
